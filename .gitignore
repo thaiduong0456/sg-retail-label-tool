@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+node_modules
+.uv-cache/
+.DS_Store
+tmp/
+output/
+*.inspect.ndjson
+~$*.xlsx
+/*.xlsx
+/*.xlsm
+/*.pdf
+/*.jpg
+/*.jpeg
+/*.png

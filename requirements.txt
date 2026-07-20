@@ -1,0 +1,5 @@
+streamlit>=1.45,<2
+openpyxl>=3.1,<4
+reportlab>=4.2,<5
+PyMuPDF>=1.24,<2
+pandas>=2.2,<3
